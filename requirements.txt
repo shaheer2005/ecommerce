@@ -1,0 +1,11 @@
+Django==6.0.2
+djangorestframework
+django-cors-headers
+Pillow
+django-cleanup
+django-storages
+boto3
+drf-spectacular  # Phase 9: API documentation (Swagger/Redoc)
+django-filter  # Phase 9: Advanced filtering
+stripe  # Payment processing
+python-dotenv  # Load environment variables from .env
